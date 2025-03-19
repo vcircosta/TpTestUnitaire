@@ -1,0 +1,11 @@
+# Unit Test Project - Elise Labarrere
+## Test with php unit
+```bash
+./vendor/bin/phpunit tests
+```
+
+## Change name space
+Don't forget to use :
+```bash
+composer dump-autoload
+```

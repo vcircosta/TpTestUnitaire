@@ -1,0 +1,23 @@
+{
+    "name": "elise/project-2",
+    "description": "Exercice test",
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Elise\\Project2\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Elise\\Project2\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EliseLabarrere",
+            "email": "lab.elise@outlook.fr"
+        }
+    ]
+}
