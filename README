@@ -1,4 +1,4 @@
-# Unit Test Project - Elise Labarrere
+# Unit Test Project
 ## Test with php unit
 ```bash
 ./vendor/bin/phpunit tests
